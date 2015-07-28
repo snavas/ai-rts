@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iavj/!svn/ver/135/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado
+END
+KinematicEvade.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iavj/!svn/ver/97/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicEvade.java
+END
+KinematicPursue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iavj/!svn/ver/135/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicPursue.java
+END
+KinematicFollowPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iavj/!svn/ver/113/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicFollowPath.java
+END
+KinematicCollisionAvoidance.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/iavj/!svn/ver/121/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicCollisionAvoidance.java
+END
+KinematicWallAvoidance.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iavj/!svn/ver/57/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicWallAvoidance.java
+END
+KinematicLook.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iavj/!svn/ver/49/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicLook.java
+END
+KinematicWanderD.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iavj/!svn/ver/108/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicWanderD.java
+END
+KinematicFace.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iavj/!svn/ver/51/JuegoIAVJ/src/juegoiavj/kinematic/acelerado/delegado/KinematicFace.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iavj/!svn/ver/111/JuegoIAVJ/src/juegoiavj/kinematic/grupal
+END
+KinematicAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iavj/!svn/ver/111/JuegoIAVJ/src/juegoiavj/kinematic/grupal/KinematicAlignment.java
+END
+KinematicFlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iavj/!svn/ver/111/JuegoIAVJ/src/juegoiavj/kinematic/grupal/KinematicFlock.java
+END
+KinematicSeparation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iavj/!svn/ver/111/JuegoIAVJ/src/juegoiavj/kinematic/grupal/KinematicSeparation.java
+END
+KinematicCohesion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iavj/!svn/ver/111/JuegoIAVJ/src/juegoiavj/kinematic/grupal/KinematicCohesion.java
+END

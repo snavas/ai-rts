@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iavj/!svn/ver/117/JuegoIAVJ/src/juegoiavj/kinematic/uniforme
+END
+KinematicSeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iavj/!svn/ver/45/JuegoIAVJ/src/juegoiavj/kinematic/uniforme/KinematicSeek.java
+END
+KinematicArrive.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iavj/!svn/ver/117/JuegoIAVJ/src/juegoiavj/kinematic/uniforme/KinematicArrive.java
+END
+KinematicFlee.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iavj/!svn/ver/45/JuegoIAVJ/src/juegoiavj/kinematic/uniforme/KinematicFlee.java
+END
+KinematicWander.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iavj/!svn/ver/45/JuegoIAVJ/src/juegoiavj/kinematic/uniforme/KinematicWander.java
+END
+Steering.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iavj/!svn/ver/14/JuegoIAVJ/src/juegoiavj/kinematic/uniforme/Steering.java
+END

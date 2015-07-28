@@ -1,0 +1,37 @@
+10
+
+dir
+141
+https://subversion.assembla.com/svn/iavj/JuegoIAVJ/src/Material
+https://subversion.assembla.com/svn/iavj
+
+
+
+2013-05-30T10:50:26.462068Z
+139
+Sandra.lozano-UMU
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e1eb0e18-906a-47dc-a06c-d400bcf5378f
+
+imagenes
+dir
+
+mapas
+dir
+
+sonidos
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iavj/!svn/ver/138/JuegoIAVJ/src/juegoiavj/kinematic
+END
+SteeringA.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iavj/!svn/ver/34/JuegoIAVJ/src/juegoiavj/kinematic/SteeringA.java
+END
+CollisionDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iavj/!svn/ver/34/JuegoIAVJ/src/juegoiavj/kinematic/CollisionDetector.java
+END
+KinematicSteering.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iavj/!svn/ver/51/JuegoIAVJ/src/juegoiavj/kinematic/KinematicSteering.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iavj/!svn/ver/55/JuegoIAVJ/src/juegoiavj/kinematic/Path.java
+END
+Kinematic.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iavj/!svn/ver/138/JuegoIAVJ/src/juegoiavj/kinematic/Kinematic.java
+END
+Collision.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iavj/!svn/ver/34/JuegoIAVJ/src/juegoiavj/kinematic/Collision.java
+END
+Behavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iavj/!svn/ver/41/JuegoIAVJ/src/juegoiavj/kinematic/Behavior.java
+END
+BlendedSteering.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iavj/!svn/ver/121/JuegoIAVJ/src/juegoiavj/kinematic/BlendedSteering.java
+END
