@@ -1,3 +1,7 @@
-h1. Assembla.readme
+h1. README
 
-In assembla you can use "textile(Textile Basics)":http://bit.ly/textile-basics, "html(Html Basics)":http://bit.ly/html-basics or "markdown(Markdown Basics)":http://bit.ly/markdown-basics to add some sugar to your readme files. Just add the extention to your readme file, so we can recognize the markup you want to use!
+Galaxy at war is an academic Artificial Inteligence technical demo of a Real Time Strategy game developed for the course Artificial Inteligence for Computer Games at my Bachelor degree in Computer Science and Engineering. I have participated in a two people team for the development of the project. We have used the Lightweight Java Game Library as the game engine of the demo.
+
+During the course of the project we have implemented advanced AI techniques like Steering algorithms, a tactic Path Finding using the Learning Real Time A* algorithm, a ruled based system for the strategic decision making, among other.
+
+You can watch some demo videos of how this algorithms work in this "youtube playlist(Youtube playlist)":https://www.youtube.com/watch?v=gZwDXKuyBqc&list=PLw4eEiSOTwQGHQPX7LqnVlIHkQgiHMWN
