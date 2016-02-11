@@ -4,4 +4,4 @@ Galaxy at war is an academic Artificial Inteligence technical demo of a Real Tim
 
 During the course of the project we have implemented advanced AI techniques like Steering algorithms, a tactic Path Finding using the Learning Real Time A* algorithm, a ruled based system for the strategic decision making, among other.
 
-You can watch some demo videos of how this algorithms work in this "youtube playlist(Youtube playlist)":https://www.youtube.com/watch?v=gZwDXKuyBqc&list=PLw4eEiSOTwQGHQPX7LqnVlIHkQgiHMWN
+You can watch some demo videos of how this algorithms work in my "youtube channel(Youtube channel)":https://www.youtube.com/channel/UCXyL0LXwjDuQ6YfAE8JIFig
